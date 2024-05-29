@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "role": "Post Graduation Diploma in Advanced Computing",
+      "organisation": "C-DAC",
+      "startDate": "Sept, 2023",
+      "endDate": "Feb, 2024",
+      "location": "MET IIT Nashik",
+      "experiences": [
+        "Skills: Java, SpringBoot, React js, Node js, JavaScript, Mysql,",
+        "Html, Css, Bootstrap, MongoDB ,.Net Core, C#"
+      ],
+      "imageSrc": "company/google.png"
+    },
+    
+    {
+      "id": 2,
+      "role": "Bacholor's Degree In Mechanical Engineering",
+      "organisation": "Savitribai Phule Pune University",
+      "startDate": "Aug, 2020",
+      "endDate": "Jun, 2023",
+      "location": "Savitribai Phule Pune University, Pune",
+      "experiences": [
+        "",
+        ""
+      ],
+      "imageSrc": "company/netflix.png"
+    },
+    {
+      "id": 3,
+      "role": "Diploma In Mechanical Engineering",
+      "organisation": "MSBTE",
+      "startDate": "Aug, 2014",
+      "endDate": "Jun, 2017",
+      "location": "P. DR. V V P Institute of Engineering, Pravaranagar, Ahmednagar",
+      "experiences": [
+        "",
+        ""
+      ],
+      "imageSrc": "company/microsoft.png"
+    }
+  ]
