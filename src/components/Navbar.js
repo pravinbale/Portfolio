@@ -7,7 +7,7 @@ const Navbar = () => {
       data-aos="fade-down"
       data-aos-duration="1000" 
       >
-        <div className="left nav_items"><img id="logo-img" src="https://img.icons8.com/?size=100&id=LeZHIXUGxkvI&format=png&color=000000"/><b id="logo-name">PRAVIN BALE</b></div>
+        <div className="left nav_items"><img id="logo-img" src="https://img.icons8.com/?size=100&id=LeZHIXUGxkvI&format=png&color=000000" alt="logo"/><b id="logo-name">PRAVIN BALE</b></div>
         <div className="right">
           <a href="#home" className="nav_items">
             Home

@@ -29,7 +29,8 @@ const Home = () => {
     <>
       <div className="container home " id="home">
         <div className="left col-lg-6" data-aos="fade-up-right" data-aos-duration="1000">
-          <h1 ref={typedRef}></h1>
+          <h1 ref={typedRef}>Welcome to My Profile</h1>
+
 
           <a
             href={pdf}
