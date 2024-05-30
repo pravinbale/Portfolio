@@ -12,7 +12,7 @@
       "title": "PORTFOLIO WEBSITE",
       "imageSrc": "https://media.licdn.com/dms/image/D4D16AQHdV8SEfEgj0A/profile-displaybackgroundimage-shrink_350_1400/0/1701789168851?e=2147483647&v=beta&t=8NluVl61xfN2CwI5iZYuYbJ71uHwrZ_3kHPRYVgaixg",
       "description": "This is a project made with complete React Js, HTML, CSS and JavaScript",
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://pravin-bale-portfolio.netlify.app/",
+      "source": "https://github.com/pravinbale/Portfolio"
     }
   ]
