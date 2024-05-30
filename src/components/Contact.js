@@ -16,25 +16,26 @@ const Contact = () => {
           data-aos="zoom-in-up"
           data-aos-duration="1000"
         >
-          <a href="https://www.instagram.com/mr_pravin_bale/" target="_blank" className="items">
+          <a href="https://www.instagram.com/mr_pravin_bale/" target="_blank" className="items" rel="noopener noreferrer">
             <FaInstagram className="icons" />
           </a>
-          <a href="https://m.facebook.com/profile.php?id=100022188727201" target="_blank" className="items">
+          <a href="https://m.facebook.com/profile.php?id=100022188727201" target="_blank" className="items" rel="noopener noreferrer">
             <CiFacebook className="icons" />
           </a>
-          <a href="https://www.linkedin.com/in/pravin-bale-8b2a10243/?originalSubdomain=in" target="_blank" className="items">
+          <a href="https://www.linkedin.com/in/pravin-bale-8b2a10243/?originalSubdomain=in" target="_blank" className="items" rel="noopener noreferrer">
             <CiLinkedin className="icons" />
           </a>
-          <a href="https://www.twitter.com" target="_blank" className="items">
+          <a href="https://www.twitter.com" target="_blank" className="items" rel="noopener noreferrer">
             <FaSquareXTwitter className="icons" />
           </a>
-          <a href="https://github.com/pravinbale" target="_blank" className="items">
+          <a href="https://github.com/pravinbale" target="_blank" className="items" rel="noopener noreferrer">
             <FaGithubSquare className="icons" />
           </a>
           <a
             href="mailto:mr.xpravin2k17@gmail.com"
             target="_blank"
             className="items"
+            rel="noopener noreferrer"
           >
             <SiGmail className="icons" />
           </a>
